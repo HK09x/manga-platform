@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="960" viewBox="0 0 720 960">
+  <rect width="720" height="960" fill="#334148"/>
+  <rect y="560" width="720" height="400" fill="#202d33"/>
+  <path d="m103 519 255-209 255 209v355H103z" fill="#9d7255"/>
+  <path d="m70 535 288-244 288 244-24 29-264-222-264 222z" fill="#d5b18a"/>
+  <rect x="187" y="574" width="340" height="299" fill="#382f2b"/>
+  <rect x="231" y="609" width="252" height="225" fill="#e8b879"/>
+  <path d="M231 718h252M357 609v225" stroke="#6f5141" stroke-width="12"/>
+  <rect x="300" y="728" width="105" height="106" fill="#cf8b59"/>
+  <circle cx="389" cy="783" r="6" fill="#f5dfb7"/>
+  <path d="M0 879h720" stroke="#e6ad78" stroke-width="5" opacity=".65"/>
+  <text x="54" y="105" fill="#f4eee4" font-family="sans-serif" font-size="18" letter-spacing="5">ROOMS FOR STRANGERS</text>
+  <text x="55" y="910" fill="#fff8ee" font-family="sans-serif" font-weight="800" font-size="61">บ้านเลขที่ 42</text>
+</svg>

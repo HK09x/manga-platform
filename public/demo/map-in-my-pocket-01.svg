@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1280" viewBox="0 0 900 1280">
+  <rect width="900" height="1280" fill="#f4eddf"/>
+  <rect x="36" y="36" width="828" height="1204" fill="#d9d1bc" stroke="#283832" stroke-width="6"/>
+  <circle cx="699" cy="205" r="95" fill="#e58b50"/>
+  <path d="M40 672 230 374l126 126 159-255 170 274 112-135 65 112v343H40z" fill="#829287"/>
+  <path d="M40 765 203 614l156 93 176-170 151 167 108-89 68 66v421H40z" fill="#576f67"/>
+  <path d="M40 884h824v356H40z" fill="#b99873"/>
+  <path d="M40 1025c175-70 292-20 408 21 133 46 246 31 416-28v222H40z" fill="#6a8780"/>
+  <path d="M166 760c165-88 286-55 415-5" fill="none" stroke="#f0d8ae" stroke-width="7" stroke-dasharray="20 17"/>
+  <circle cx="443" cy="608" r="43" fill="#d1a17e"/>
+  <path d="m406 658 41-17 54 50 24 132-58 8-51-112z" fill="#35423e"/>
+  <path d="m448 818-40 117h-25l23-121m65 1 49 111h-25l-59-103" fill="#283631"/>
+  <rect x="91" y="120" width="364" height="116" rx="30" fill="#fffdf7" stroke="#263832" stroke-width="5"/>
+  <text x="130" y="169" fill="#273832" font-family="sans-serif" font-size="25">คุณตาบอกว่า</text>
+  <text x="130" y="204" fill="#273832" font-family="sans-serif" font-size="25">ให้เดินตามเส้นนี้ไป</text>
+  <text x="650" y="1190" fill="#f9f2e5" font-family="sans-serif" font-size="16" letter-spacing="3">KOMI DEMO</text>
+</svg>

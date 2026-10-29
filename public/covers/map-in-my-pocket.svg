@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="960" viewBox="0 0 720 960">
+  <rect width="720" height="960" fill="#e8dfca"/>
+  <circle cx="507" cy="236" r="120" fill="#e38a52"/>
+  <path d="m0 572 166-232 86 107 112-179 165 259 89-119 102 134v418H0z" fill="#788879"/>
+  <path d="m0 650 143-146 105 100 137-166 154 164 103-111 78 87v382H0z" fill="#586e68"/>
+  <path d="M0 735c135-54 209-26 322 32 110 56 224 65 398 6v187H0z" fill="#b98e67"/>
+  <path d="M0 817c156-36 236-18 342 24 117 46 235 43 378 9v110H0z" fill="#728881"/>
+  <path d="M74 690c85-42 147-43 224-9" fill="none" stroke="#f1d7ae" stroke-width="5" stroke-dasharray="12 14"/>
+  <g fill="#27332f"><circle cx="352" cy="604" r="26"/><path d="m331 634 22-15 28 28 14 88-43 6-33-66z"/><path d="m348 733-28 81h-18l13-83m50 0 35 77h-18l-46-72"/></g>
+  <path d="M54 70h612v7H54z" fill="#343e38"/>
+  <text x="55" y="138" fill="#36433c" font-family="sans-serif" font-size="18" letter-spacing="6">A SMALL JOURNEY</text>
+  <text x="54" y="873" fill="#283832" font-family="sans-serif" font-weight="800" font-size="58">แผนที่ในกระเป๋า</text>
+  <text x="58" y="917" fill="#52655b" font-family="sans-serif" font-size="19" letter-spacing="2">A MAP IN MY POCKET</text>
+</svg>

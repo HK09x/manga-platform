@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1280" viewBox="0 0 900 1280">
+  <rect width="900" height="1280" fill="#fffefa"/>
+  <rect x="36" y="34" width="828" height="50" fill="#20282c"/>
+  <text x="62" y="68" fill="#fffefa" font-family="sans-serif" font-size="19" letter-spacing="4">คืนที่ดาวดับ · 03</text>
+  <rect x="36" y="110" width="828" height="560" fill="#1e2a32" stroke="#111" stroke-width="6"/>
+  <circle cx="679" cy="268" r="115" fill="#d96f58"/>
+  <path d="M36 543 192 387l98 99 154-202 145 221 104-110 171 154v117H36z" fill="#50636a"/>
+  <path d="M36 590 175 514l121 72 142-106 138 88 104-88 184 114v76H36z" fill="#182328"/>
+  <path d="M36 608h828" stroke="#e58b6c" stroke-width="5"/>
+  <rect x="504" y="145" width="300" height="100" rx="35" fill="#fffefa" stroke="#141414" stroke-width="5"/>
+  <text x="533" y="188" fill="#161616" font-family="sans-serif" font-size="24">คืนนี้ไม่มีดาวเลย</text>
+  <text x="533" y="220" fill="#161616" font-family="sans-serif" font-size="18">แต่ทำไมยังมีแสงอยู่?</text>
+  <rect x="36" y="692" width="394" height="548" fill="#d9d1bf" stroke="#111" stroke-width="6"/>
+  <path d="M36 1056h394v184H36z" fill="#4a5756"/>
+  <circle cx="219" cy="860" r="75" fill="#d5a27c"/>
+  <path d="M144 860c8-95 154-116 155 8-32-27-98-32-155-8" fill="#252a2b"/>
+  <path d="M108 1054c23-106 66-150 111-150 64 0 105 67 118 150" fill="#b44c3b"/>
+  <path d="M244 944c52-86 112-104 177-112" fill="none" stroke="#efe1bd" stroke-width="9"/>
+  <circle cx="395" cy="826" r="23" fill="#f3d27d"/>
+  <rect x="465" y="692" width="399" height="548" fill="#f0e9d9" stroke="#111" stroke-width="6"/>
+  <path d="M465 1018h399v222H465z" fill="#252f33"/>
+  <path d="M535 1018V849h82v169m45 0V815h104v203m37 0V879h55v139" fill="#49585b"/>
+  <path d="M465 1090h399" stroke="#e28c6b" stroke-width="5"/>
+  <text x="493" y="766" fill="#161616" font-family="sans-serif" font-size="21">ลินมองไปยังตึกฝั่งตรงข้าม</text>
+  <text x="493" y="798" fill="#161616" font-family="sans-serif" font-size="21">แสงเล็ก ๆ กำลังกะพริบ</text>
+</svg>

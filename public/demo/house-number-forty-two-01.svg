@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1280" viewBox="0 0 900 1280">
+  <rect width="900" height="1280" fill="#f2eadc"/>
+  <rect x="36" y="36" width="828" height="1204" fill="#d7c6a9" stroke="#44372f" stroke-width="6"/>
+  <rect x="88" y="102" width="724" height="707" fill="#405158"/>
+  <path d="M88 593 255 439l116 112 164-200 125 175 80-96 72 82v218H88z" fill="#788887"/>
+  <path d="M88 643h724v166H88z" fill="#26363b"/>
+  <path d="M151 643V453h97v190m44 0V405h124v238m65 0V486h73v157m47 0V384h133v259" fill="#344449"/>
+  <g fill="#f3cc8b"><rect x="167" y="486" width="25" height="35"/><rect x="205" y="486" width="25" height="35"/><rect x="320" y="439" width="30" height="36"/><rect x="365" y="439" width="30" height="36"/><rect x="617" y="420" width="28" height="36"/><rect x="659" y="420" width="28" height="36"/></g>
+  <path d="M88 809h724v431H88z" fill="#b98259"/>
+  <path d="M202 1030h496v210H202z" fill="#523e34"/>
+  <rect x="271" y="917" width="360" height="220" fill="#ecc992"/>
+  <path d="M271 1024h360M449 917v220" stroke="#81634b" stroke-width="11"/>
+  <path d="M394 1057h114v80H394z" fill="#ce8b5d"/>
+  <rect x="118" y="129" width="275" height="94" rx="29" fill="#fffdf7" stroke="#111" stroke-width="5"/>
+  <text x="151" y="187" fill="#1b1b19" font-family="sans-serif" font-size="25">ใครลืมจดหมายไว้?</text>
+  <text x="650" y="1188" fill="#fff7e9" font-family="sans-serif" font-size="16" letter-spacing="3">KOMI DEMO</text>
+</svg>

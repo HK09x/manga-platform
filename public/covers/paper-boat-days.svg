@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="960" viewBox="0 0 720 960">
+  <rect width="720" height="960" fill="#f0e9db"/>
+  <circle cx="540" cy="212" r="99" fill="#de6753"/>
+  <path d="M0 428c110-41 177-28 290 20s234 55 430 1v511H0z" fill="#83a6a0"/>
+  <path d="M0 544c139-58 230-18 347 18 128 40 231 25 373-25v423H0z" fill="#547f7d"/>
+  <path d="M0 695c144-37 269-13 394 24 108 31 214 18 326-17v258H0z" fill="#355f62"/>
+  <path d="m214 634 186-76 126 92-197 45z" fill="#f1e2c1" stroke="#263d3c" stroke-width="7"/>
+  <path d="m214 634 116 72 196-56m-126-92-70 148" fill="none" stroke="#263d3c" stroke-width="6"/>
+  <path d="M78 739c55-26 91-22 140 0m245 17c51-20 101-16 155 2" fill="none" stroke="#c5d9ce" stroke-width="7" opacity=".65"/>
+  <path d="M62 151h260" stroke="#293c3b" stroke-width="3"/>
+  <text x="61" y="204" fill="#293c3b" font-family="sans-serif" font-size="18" letter-spacing="5">THE LAST SUMMER</text>
+  <text x="54" y="880" fill="#fff9ef" font-family="sans-serif" font-weight="800" font-size="57">เรือกระดาษ</text>
+  <text x="59" y="922" fill="#d5e2d7" font-family="sans-serif" font-size="18" letter-spacing="3">PAPER BOAT DAYS</text>
+</svg>

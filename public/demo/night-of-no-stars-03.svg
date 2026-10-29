@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1280" viewBox="0 0 900 1280">
+  <rect width="900" height="1280" fill="#fffefa"/>
+  <rect x="36" y="34" width="828" height="570" fill="#ebe6da" stroke="#111" stroke-width="6"/>
+  <path d="M36 473h828v131H36z" fill="#343c3c"/>
+  <path d="m180 472 134-170 133 170" fill="#657674"/>
+  <path d="m398 473 176-236 180 236" fill="#536363"/>
+  <circle cx="615" cy="180" r="71" fill="#e17a5d"/>
+  <path d="M310 472c24-97 69-142 122-142 68 0 119 61 135 142" fill="#b84a3c"/>
+  <circle cx="432" cy="271" r="64" fill="#d5a17c"/>
+  <path d="M365 272c6-77 110-104 142-24-47-20-93-7-142 24" fill="#252a2b"/>
+  <rect x="59" y="87" width="305" height="112" rx="35" fill="#fffefa" stroke="#141414" stroke-width="5"/>
+  <text x="90" y="135" fill="#141414" font-family="sans-serif" font-size="25">มันเหมือนกำลัง</text>
+  <text x="90" y="170" fill="#141414" font-family="sans-serif" font-size="25">เรียกเราอยู่เลย</text>
+  <rect x="36" y="634" width="394" height="604" fill="#dce4df" stroke="#111" stroke-width="6"/>
+  <path d="M36 1013h394v225H36z" fill="#536d6a"/>
+  <circle cx="218" cy="822" r="101" fill="#f0c780"/>
+  <path d="M115 1014c18-136 53-192 103-192s94 75 110 192" fill="#2c4546"/>
+  <path d="M83 1090c80-34 213-34 302 1" fill="none" stroke="#d9e2dc" stroke-width="8"/>
+  <rect x="468" y="634" width="396" height="604" fill="#222d32" stroke="#111" stroke-width="6"/>
+  <circle cx="672" cy="866" r="125" fill="#e9b96d" opacity=".24"/>
+  <circle cx="672" cy="866" r="69" fill="#f0c779"/>
+  <path d="M553 1000c29-104 72-148 118-148 55 0 100 58 126 148" fill="#d45d48"/>
+  <rect x="493" y="686" width="337" height="100" rx="30" fill="#fffefa" stroke="#141414" stroke-width="5"/>
+  <text x="522" y="746" fill="#141414" font-family="sans-serif" font-size="24">ถ้าอย่างนั้น...</text>
+</svg>

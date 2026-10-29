@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1280" viewBox="0 0 900 1280">
+  <rect width="900" height="1280" fill="#f3ecdf"/>
+  <rect x="36" y="36" width="828" height="1204" fill="#e5dccb" stroke="#34423e" stroke-width="6"/>
+  <circle cx="696" cy="221" r="105" fill="#dd7158"/>
+  <path d="M40 578c159-75 282-43 406 10 132 57 255 54 414-9v661H40z" fill="#92b1a9"/>
+  <path d="M40 728c157-58 270-7 399 35 146 47 263 38 421-20v497H40z" fill="#5d8884"/>
+  <path d="M40 949c188-36 293-2 414 44 137 52 256 44 406 6v241H40z" fill="#335f62"/>
+  <path d="m199 687 221-91 155 108-232 84z" fill="#f4e8ce" stroke="#263f3f" stroke-width="8"/>
+  <path d="m199 687 144 101 232-84m-155-108-77 192" fill="none" stroke="#263f3f" stroke-width="7"/>
+  <path d="M123 870c70-31 121-30 186-1m277 44c82-28 139-22 218 5" fill="none" stroke="#d3e1d6" stroke-width="9"/>
+  <rect x="88" y="125" width="382" height="110" rx="32" fill="#fffdf7" stroke="#1b2928" stroke-width="5"/>
+  <text x="123" y="171" fill="#1b2928" font-family="sans-serif" font-size="24">พรุ่งนี้เราอาจจะ</text>
+  <text x="123" y="205" fill="#1b2928" font-family="sans-serif" font-size="24">ไม่ได้มาที่นี่แล้วนะ</text>
+  <text x="650" y="1187" fill="#fff7e9" font-family="sans-serif" font-size="16" letter-spacing="3">KOMI DEMO</text>
+</svg>

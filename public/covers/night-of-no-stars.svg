@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="960" viewBox="0 0 720 960">
+  <defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#111820"/><stop offset=".58" stop-color="#34464d"/><stop offset="1" stop-color="#d2674e"/></linearGradient></defs>
+  <rect width="720" height="960" fill="url(#sky)"/>
+  <circle cx="502" cy="260" r="155" fill="#e26b55"/>
+  <circle cx="502" cy="260" r="128" fill="#f0a07c" opacity=".36"/>
+  <path d="M0 590 115 480l80 78 130-178 113 170 114-112 168 184v338H0z" fill="#28343a"/>
+  <path d="M0 682 99 598l117 104 105-129 127 111 101-97 171 135v238H0z" fill="#182126"/>
+  <g fill="#f3cb9b" opacity=".85"><circle cx="104" cy="195" r="4"/><circle cx="210" cy="138" r="3"/><circle cx="320" cy="233" r="3"/><circle cx="609" cy="154" r="4"/><circle cx="80" cy="346" r="3"/></g>
+  <path d="M0 790h720v170H0z" fill="#151b1f"/>
+  <path d="M92 790v-75h100v75m28 0v-126h123v126m39 0v-92h85v92m38 0v-154h120v154" fill="#20292e"/>
+  <path d="M0 820h720" stroke="#e3795e" stroke-width="3" opacity=".75"/>
+  <text x="56" y="80" fill="#f5eee1" font-family="sans-serif" font-size="19" letter-spacing="7">KOMI ORIGINAL</text>
+  <text x="56" y="722" fill="#fffaf1" font-family="sans-serif" font-weight="800" font-size="66">คืนที่ดาวดับ</text>
+  <text x="59" y="767" fill="#e9b49d" font-family="sans-serif" font-size="20" letter-spacing="2">THE NIGHT WITHOUT STARS</text>
+</svg>
